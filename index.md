@@ -6,7 +6,7 @@ nav_order: 1
 <div style="display: flex; align-items: center; justify-content: space-between; margin: 2px 0; gap: 5px;">
   <div style="flex: 0.5;">
     <h1 style="margin: 1em 0; font-size: 1.5em !important;">Detachment 085</h1>
-    <p><span style="white-space: nowrap;"><strong>LLAB</strong>: Fri: 12:00–14:00 PM</span></p>
+    <p><span style="white-space: nowrap;"><strong>LLAB</strong>: Fri: 1200 - 1400</span></p>
     <p><span style="white-space: nowrap;"><strong>SPT</strong>: Wed&Fri: 07:00–08:00 AM</span></p>
     <p><span style="white-space: nowrap;"><strong>PFA</strong>: First Week of Each Month Fri: 05:30 AM</span></p>
   </div>
