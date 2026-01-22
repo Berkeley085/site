@@ -13,7 +13,7 @@ nav_order: 1
 
 
   <div style="flex-shrink: 4; ">
-    <img src="/assets/images/detachment-logo.png" alt="Detachment 085 Logo" style="max-width: 150px; height: auto;" onerror="this.style.display='none'">
+    <img src="{{ '/assets/images/detachment-logo.png' | relative_url }}" alt="Detachment 085 Logo" style="max-width: 150px; height: auto;" onerror="this.style.display='none'">
   </div>
 </div>
 
