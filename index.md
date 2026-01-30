@@ -8,7 +8,7 @@ nav_order: 1
     <h1 style="margin: 1em 0; font-size: 1.5em !important;">Detachment 085</h1>
     <p><span style="white-space: nowrap;"><strong>LLAB</strong>: Fri: 1200 – 1400</span></p>
     <p><span style="white-space: nowrap;"><strong>SPT</strong>: Wed & Fri: 0700 – 0800</span></p>
-    <p><span style="white-space: nowrap;"><strong>PFA</strong>: First Week of Each Month – Friday: 0530 </span></p>
+    <p><span style="white-space: nowrap;"><strong>PFA</strong>: First Week of Each Month – Friday: 0700 </span></p>
   </div>
 
 
@@ -22,11 +22,11 @@ nav_order: 1
 ## Announcements
 
 * **LLab OPORDs**
-  * Will upload biweekly, around Wed/Thu. Please review it before **Friday**. | [View LLAB OPORDs ](https://drive.google.com/drive/folders/14fdc2qNvM17RsbF73LUUXgR2c1usnXOC?usp=sharing)
+  * Will upload biweekly, around Wed/Thu. Please review it before LLab. | [View LLAB OPORDs ](https://drive.google.com/drive/folders/14fdc2qNvM17RsbF73LUUXgR2c1usnXOC?usp=sharing)
 
 
 * **PT OPORDs**
-  * Will upload biweekly, around Wed/Thu. Please review it before **Friday**. | [View SPT OPORDs ](https://drive.google.com/drive/folders/1eE71CVFnl-2pe-Q04vJnNEHvwHuZRk-r?usp=sharing)
+  * Will upload biweekly, Please review it before each PT. | [View SPT OPORDs ](https://drive.google.com/drive/folders/1eE71CVFnl-2pe-Q04vJnNEHvwHuZRk-r?usp=sharing)
 
 * **A-Staff GMC Deputy Interest**
   * Interested in becoming a GMC deputy? Submit your interest form for Spring 2026. | [Learn More & Submit Form](extracurriculars/a-staff.html)
