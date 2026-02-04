@@ -28,8 +28,6 @@ nav_order: 1
 * **PT OPORDs**
   * Will upload biweekly, Please review it before each PT. | [View SPT OPORDs ](https://drive.google.com/drive/folders/1eE71CVFnl-2pe-Q04vJnNEHvwHuZRk-r?usp=sharing)
 
-* **A-Staff GMC Deputy Interest**
-  * Interested in becoming a GMC deputy? Submit your interest form for Spring 2026. | [Learn More & Submit Form](extracurriculars/a-staff.html)
 
 ## Calendar
 
