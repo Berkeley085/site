@@ -10,11 +10,7 @@ nav_order: 5
 
 <!-- >
 ## About
-
-
 ## Activities
-
-
 ## Contact
 -->
 

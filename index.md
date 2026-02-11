@@ -28,6 +28,8 @@ nav_order: 1
 * **PT OPORDs**
   * Will upload biweekly, Please review it before each PT. | [View SPT OPORDs ](https://drive.google.com/drive/folders/1eE71CVFnl-2pe-Q04vJnNEHvwHuZRk-r?usp=sharing)
 
+* **Det 085 Shirt Pre-Order**
+  * Interested in purchasing a Det shirt? Stock is limited. | [Pre Order Form](https://www.jotform.com/form/260318113551144)
 
 ## Calendar
 
