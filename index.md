@@ -19,9 +19,11 @@ nav_order: 1
 
 
 
+
 ## Announcements
-  * ** Next PFA **
-  * Next PFA will be held on March 13th | [View LLAB OPORDs ]
+
+* **Next PFA**
+  * Next PFA will be held on **March 13th**. |
 
 * **LLab OPORDs**
   * Will upload biweekly, around Wed/Thu. Please review it before LLab. | [View LLAB OPORDs ](https://drive.google.com/drive/folders/14fdc2qNvM17RsbF73LUUXgR2c1usnXOC?usp=sharing)
